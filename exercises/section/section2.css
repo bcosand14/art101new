@@ -1,0 +1,9 @@
+p{color: rgb(196, 50, 196); font-size: larger; font-weight: bold; font-family: arial; }
+ol{color: deeppink; font-size: larger; }
+h1{color: turquoise; font-size: xx-large;}
+html{background-color: rgb(251, 251, 159); font-family: Quigley, cursive;}
+
+/* select all html tags that have a class highlight_01 */
+.highlight_01 {background-color: azure;}
+
+.highlight_02 {background-color: lightgreen;}
