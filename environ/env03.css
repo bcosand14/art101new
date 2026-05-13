@@ -102,3 +102,7 @@ p1 {
   padding: 10px;
   background: greenyellow;
 }
+
+.container {
+  text-align: center;
+}
