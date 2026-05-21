@@ -1,0 +1,118 @@
+body {
+  background-image: url("metal.jpg");
+}
+
+h1 {
+  color: greenyellow;
+text-align: center;
+}
+
+
+p { 
+  color: lightseagreen; 
+text-align: center;
+background-color: black;
+display: none;
+}
+
+p1 {
+  color: brown; 
+  text-align: center;
+  font-weight: bold;
+
+}
+
+#p2 {
+  color: brown; 
+  text-align: center;
+  font-weight: bold;
+    background-color: greenyellow;
+  padding: 10px;
+
+}
+
+
+#page {
+    max-width: 500px;
+    margin: 0 auto 0 auto;
+    background: opaquewhite;
+    padding: 20px;
+}
+
+.top-zone {
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    margin: 0 0 50px 0;
+}
+.top-zone {
+  margin-bottom: 100px;
+}
+.top-zone {
+  display: flex;
+  justify-content: center; /* centers horizontally */
+}
+.top-zone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.main-zone {
+    display: flex;
+    gap: 70px;
+    align-items: flex-start;
+    margin: 0 0 50px 0;
+}
+.main-zone
+{
+  display: flex;
+  justify-content: center; /* centers horizontally */
+}
+#introduction {
+    background:
+    padding: 20px;
+    flex: 2;
+}
+
+#introduction h2 {
+    font-style: italic;
+    margin-top: 0;
+}
+
+#introduction p {
+    font-size: 120%;
+    line-height: 1.5;
+}
+
+#image1 {
+    flex: 1;
+    border-radius: 12px;
+    padding: 20px;
+    background: greenyellow
+    
+}
+#image2 {
+    flex: 1;
+     border-radius: 12px;
+    padding: 20px;
+    background: greenyellow
+}
+#image3 {
+  flex: 1;
+  border-radius: 5px;
+  padding: 10px;
+  background: greenyellow;
+}
+
+.container {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+
+.container1 {
+    margin-top: px;
+    text-align: center;
+}
+
+
